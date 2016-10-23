@@ -1,0 +1,12 @@
+{
+  "name": "Chrome-Devtools-Refresh-Btn",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Adds a simple refresh button (tab) to the Devtools window.",
+  "devtools_page": "devtoolsRefresh.html",
+  "icons": {
+    "16": "refresh16.png",
+    "32": "refresh32.png",
+    "128": "refresh128.png"
+  }
+}
