@@ -14,5 +14,5 @@ chrome.devtools.panels.create("Refresh",
                 }
             });
         });
-    }gi
+    }
 );
