@@ -1,7 +1,7 @@
 {
   "name": "Chrome Devtools Refresh Button",
-  "version": "1.0.2",
-  "manifest_version": 2,
+  "version": "1.0.3",
+  "manifest_version": 3,
   "author": "kynetiv",
   "description": "Adds a simple refresh button (tab) to the Devtools window.",
   "devtools_page": "devtoolsRefresh.html",
